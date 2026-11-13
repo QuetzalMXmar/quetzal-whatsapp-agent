@@ -1,0 +1,19 @@
+# Configuración del negocio
+negocio:
+  nombre: "Quetzal"
+  descripcion: "Diseño, fabricación e instalación de cocinas, closets y vanities premium a la medida. Showroom en Paseo de las Palmas 830, Ciudad de México."
+  horario: "Lunes a viernes de 10:00 a. m. a 7:00 p. m.; sábado de 10:00 a. m. a 4:30 p. m. (hora de Ciudad de México)"
+  zona_horaria: "America/Mexico_City"
+
+agente:
+  nombre: "Asistente de Quetzal"
+  tono: "Cálido y profesional, cercano sin exceso de confianza"
+  casos_de_uso:
+    - "Responder preguntas frecuentes"
+    - "Calificar y canalizar clientes nuevos"
+    - "Canalizar postventa, seguimiento, arquitectos y proveedores"
+
+metadata:
+  creado: "2026-11-13"
+  proveedor: "zernio"
+  version: "1.0"
